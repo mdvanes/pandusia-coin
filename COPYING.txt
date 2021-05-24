@@ -1,6 +1,5 @@
-Copyright ¬© 2013-2016 The Nxt Core Developers.
-Copyright ¬© 2016-2018 Jelurida IP B.V.
-Copyright ¬© 2018 Sandoche ADITTANE and Farbod SARAF, Coingenerator.sh
+Copyright © 2013-2016 The Nxt Core Developers.
+Copyright © 2016-2018 Jelurida IP B.V.
 
 This program is distributed under the terms of the Jelurida Public License
 version 1.1 for the Nxt Public Blockchain Platform.
@@ -29,7 +28,7 @@ JELURIDA PUBLIC LICENSE
 Preamble:
 
 Being a company engaged predominantly in the creation of blockchain technology,
-Jelurida IP B.V. has prepared the following ‚Äúcoinleft‚Äù license whose goal is to
+Jelurida IP B.V. has prepared the following ìcoinleftî license whose goal is to
 implement new requirements consistent with the specific nature of the blockchain
 software. We recognize the fundamental advantages that the decentralized ledger
 technology has to offer and we truly believe in its potential to change the
@@ -38,7 +37,7 @@ tradition to publish blockchain software as an open source and in this way to
 give our contribution to the further development of the blockchain technology
 world-wide. At the same time we wish to protect our IP rights and to address the
 fact that our software was copied many times during its existence and as a
-result a lot of ‚Äúclones‚Äù have been created which dilute the value of the tokens
+result a lot of ìclonesî have been created which dilute the value of the tokens
 with no significant technological improvements behind them.
 
 The exact terms and conditions for using, copying and modification follow:
@@ -94,12 +93,12 @@ JPL version: 1.1
 
 Article 0. Definitions:
 
-‚Äúbased on [the Program/Covered Work/‚Ä¶]‚Äù means derived from the original Covered
+ìbased on [the Program/Covered Work/Ö]î means derived from the original Covered
 Work (or part thereof) by the act(s) of copying it, modifying it, including it
 (in whole or in part) or by linking to the original Covered Work (or part
 thereof).
 
-‚Äúto convey‚Äù: To convey a work means any kind of propagation that enables other
+ìto conveyî: To convey a work means any kind of propagation that enables other
 parties to make or receive copies. Mere interaction with a user through a
 computer network, with no transfer of a copy, is not conveying.
 
@@ -144,17 +143,17 @@ Conditions and Special Conditions.
 Licensee, You: Everyone (natural person or legal entity) who wants to use, copy,
 distribute, modify or build on top of the Program.
 
-‚Äúto modify‚Äù: To modify a work means to copy from or adapt all or part of the
+ìto modifyî: To modify a work means to copy from or adapt all or part of the
 work in a fashion requiring copyright permission, other than the making of an
-exact copy. The resulting work is called a ‚Äúmodified version‚Äù of the earlier
-work or a ‚Äúwork based on‚Äù the earlier work. Modification also includes
+exact copy. The resulting work is called a ìmodified versionî of the earlier
+work or a ìwork based onî the earlier work. Modification also includes
 translation into another programming language or human language.
 
 Object Code: Any non-Source Code form of a work.
 
 Program: Any copyrightable work licensed under this License.
 
-‚Äúto propagate‚Äù: To propagate a work means to do anything with it that, without
+ìto propagateî: To propagate a work means to do anything with it that, without
 permission, would make you directly or secondarily liable for infringement under
 applicable copyright law, except executing it on a computer or modifying a
 private copy. Propagation includes copying, distribution (with or without
@@ -222,7 +221,7 @@ technological measures.
 
 Article 2.
 
-2.1 You may copy and distribute verbatim copies of the Covered Work‚Äôs Source
+2.1 You may copy and distribute verbatim copies of the Covered Workís Source
 Code as you receive it, in any medium, provided that you conspicuously and
 appropriately publish on each copy an appropriate copyright notice and
 disclaimer of warranty; keep intact all the notices that refer to this License
@@ -452,7 +451,7 @@ DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A
 FAILURE OF THE COVERED WORK TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH
 HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. YOU
 INDEMNIFY THE COPYRIGHT HOLDER OR CONVEYOR OF THE COVERED WORK OF ANY LIABILITY
-VIS-√Ä-VIS ANY THIRD PARTY IN CONNECTION WITH THE COVERED WORK AS USED, COPIED,
+VIS-¿-VIS ANY THIRD PARTY IN CONNECTION WITH THE COVERED WORK AS USED, COPIED,
 PROPAGATED OR MODIFIED BY YOU.
 
 
